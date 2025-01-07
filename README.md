@@ -6,12 +6,24 @@ This is a simple e-commerce application built using the **MVVM (Model-View-ViewM
 
 - **Categories and Products**:  
   Users can browse different categories, and each category contains a list of products.
-  
+
+  ![Categories and Products](./ecommerce_website/ScreenShots/Image1.png)
+
+- **Product Details**:  
+  Users can view detailed information about each product.
+
+  ![Product Details](./ecommerce_website/ScreenShots/Details.png)
+
 - **Shopping Cart Management**:  
   Users can add products to the shopping cart, update quantities, and remove items.
 
-- **MVVM Pattern**:  
-  The project follows the MVVM architecture to ensure a clean separation of concerns and maintainable code.
+  ![Shopping Cart](./ecommerce_website/ScreenShots/ViderPanier.png)
+
+## MVVM Architecture
+
+The project follows the MVVM architecture to ensure a clean separation of concerns and maintainable code.
+
+![MVVM Architecture](./ecommerce_website/ScreenShots/ArchitecturesMVVM.png)
 
 ## Technologies Used
 
